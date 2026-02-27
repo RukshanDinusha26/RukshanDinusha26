@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23222222.svg?logo=About.me&logoColor=white)](https://rukshandinusha.com.lk) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rukshandinusha26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rukshan.bwd@gmail.com) 
 
 # 💻 Tech Stack:
